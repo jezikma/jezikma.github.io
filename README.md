@@ -2,7 +2,7 @@
 
 
 
-# Uso de Flexboc con HTML y CSS
+# Portafolio 
 Este proyecto es un proyecto creado con HTML5 y CSS3, implementando el uso de flexbox y un poco de JS.
 
 ### Características
